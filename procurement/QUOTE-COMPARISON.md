@@ -56,3 +56,18 @@ Before G5 passes, family should be able to answer:
 - Sensitivity if distributor allowance +5 pts?
 - Sensitivity if COGS +10%?
 - What happens if first run takes 2× expected time to sell?
+
+
+## October 12 verified-source addendum
+
+See [vendor pricing and evidence register](../research/VERIFIED-VENDOR-PRICING-2026-10-12.md) for dated source details and exclusions.
+
+| Supplier | Volume | Confirmed base fee | Known other charges | Gaps |
+|---|---|---|---|---|
+| Right Coast | 100 cases / 2,400 cans | $5,000 production day | $1,500 formula/supplier-list rights | commercial formulation, inputs, compliance, terms, freight |
+| Right Coast | up to 250 cases / 6,000 cans | $5,000 production day | see above | full finished-product costs |
+| Right Coast | 251–500 cases | $6,500 production day | see above | full finished-product costs |
+| Islamorada | 1,000 cases / 24,000 cans | $8,980 basic tolling | $3,600 listed setup/DBA fees, applicability to canned RTD requires confirmation | inputs, taxes, label, freight and distribution |
+| Deibel | final recipe/processing letter | $550 standard new PA letter | $20.12 optional pH testing; other analysis/revisions extra | requires final formula and actual processing facility |
+
+These fees cannot yet be combined into a validated complete production budget.
