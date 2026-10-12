@@ -1,6 +1,6 @@
 # Poolside Estate — Supplier Outreach Tracker
 
-_Research only. Outreach does not authorize paid development, contracts, production or supplier selection. Status last updated 2026-10-10._
+_Research only. Outreach does not authorize paid development, contracts, production or supplier selection. Status last updated 2026-10-12._
 
 | Organization | Contact | Status | Evidence / commercial findings | Next |
 |---|---|---|---|---|
